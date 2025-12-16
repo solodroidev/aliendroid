@@ -5,7 +5,7 @@
       "redirect_url": "",
       "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/webview.html",
       "user_agent": "",
-      "navigation_drawer": false,
+      "navigation_drawer": true,
       "navigation_icon_solid_color": false,
       "geolocation": false,
       "webview_cache": true,
@@ -107,4 +107,5 @@
       "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
     }
   ]
+
 }
